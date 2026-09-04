@@ -27,31 +27,7 @@ A modern and responsive personal portfolio website showcasing my projects, techn
 * Contact section
 * Modern UI/UX
 
-## 🚀 Getting Started
 
-Clone the repository:
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
-Build for production:
-
-```bash
-npm run build
-```
 
 ## 👨‍💻 About Me
 
