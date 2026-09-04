@@ -1,23 +1,62 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # Rakesh-Portfolio-Website
-🚀 Personal developer portfolio showcasing my projects, technical skills, certifications, and experience. Built with React, JavaScript, and modern web technologies.
->>>>>>> c35be3944012c5c3797e379fb73dff41942bd86a
+
+🚀 **Personal Developer Portfolio**
+
+A modern and responsive personal portfolio website showcasing my projects, technical skills, certifications, and experience.
+
+## 🛠️ Technologies Used
+
+* React.js
+* JavaScript
+* Vite
+* HTML5
+* CSS3
+* Tailwind CSS
+* GSAP
+* Three.js
+* Git & GitHub
+
+## ✨ Features
+
+* Responsive design
+* Interactive animations
+* 3D elements
+* Project showcase
+* Technical skills section
+* Certifications and courses
+* Contact section
+* Modern UI/UX
+
+## 🚀 Getting Started
+
+Clone the repository:
+
+```bash
+git clone YOUR_GITHUB_REPOSITORY_URL
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run the development server:
+
+```bash
+npm run dev
+```
+
+Build for production:
+
+```bash
+npm run build
+```
+
+## 👨‍💻 About Me
+
+Hi, I'm Rakesh, a passionate developer who enjoys building modern, interactive, and responsive web applications. I love learning new technologies, solving problems, and turning ideas into real-world projects.
+
+## 📌 Project
+
+This portfolio is designed to showcase my development journey, projects, skills, and achievements.
